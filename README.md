@@ -1,4 +1,3 @@
-# gf-recipes-theme
 # GF Recipes Theme
 
 A clean, modern, and fully responsive WordPress theme built to integrate seamlessly with the **GF Recipes** plugin suite.  
